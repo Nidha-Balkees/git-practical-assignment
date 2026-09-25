@@ -1,0 +1,9 @@
+User Authentication Module
+
+This module is responsible for managing user authentication.
+
+Features:
+- User registration
+- User login
+- User logout
+- Basic user validation
