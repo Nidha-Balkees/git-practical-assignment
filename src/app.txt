@@ -1,4 +1,4 @@
 Main branch update for rebase.
 Authentication module
-Authentication validation DISABLED
+Authentication validation
 Production monitoring enabled
