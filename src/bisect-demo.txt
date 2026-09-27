@@ -1,2 +1,1 @@
-GOOD
-Stable version
+BUG
