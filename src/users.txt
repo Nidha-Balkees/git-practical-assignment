@@ -1,0 +1,9 @@
+# User Management Records
+
+USR001,Anisha,anisha@example.com
+USR002,Fiza,fiza@example.com
+USR003,Hadiya,hadiya@example.com
+USR004,Udaya,udaya@example.com
+USR005,Sreelakshmi,sreelakshmi@example.com
+USR006,Arjun,arjun@example.com
+USR007,Meera,meera@example.com
