@@ -9,3 +9,6 @@ The user management module stores and manages basic user information.
 - Store user email
 - Maintain multiple user records
 - Support basic user information management
+## Project Profile
+
+Profile information is managed through the user management module.
