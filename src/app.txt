@@ -1,1 +1,5 @@
 Main branch update for rebase.
+Authentication module
+Authentication validation
+notification module
+notification preferences
