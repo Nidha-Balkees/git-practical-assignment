@@ -11,4 +11,4 @@ The user management module stores and manages basic user information.
 - Support basic user information management
 ## Project Profile
 
-Profile information is managed through the user management module.
+The project profile supports user and payment management.
