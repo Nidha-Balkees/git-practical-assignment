@@ -1,0 +1,6 @@
+# Payment Records
+
+Payment ID,User ID,Amount,Currency,Status
+
+PAY001,USR001,500,INR,SUCCESS
+PAY002,USR002,1000,INR,PENDING
