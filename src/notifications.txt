@@ -1,0 +1,2 @@
+Notification module initialized.
+Notifications will support task updates.
